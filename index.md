@@ -29,7 +29,8 @@ Link a WooCommerce product to a 20i package type from the product edit screen. W
 
 **Technologies**: PHP, WordPress, WooCommerce, 20i Hosting API  
 **Status**: Active  
-**Version**: 2.9.0
+**Version**: 2.9.0  
+**GitHub**: [piptheexplorer/solid-host-plug](https://github.com/piptheexplorer/solid-host-plug)
 
 ## Experience
 
