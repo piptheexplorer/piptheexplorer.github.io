@@ -15,6 +15,8 @@ I'm a developer passionate about exploring new technologies, building cool proje
 
 ## Projects
 
+[Link to another page](./another-page.html).
+
 ### WP Test Content Generator
 A WordPress plugin that creates dummy content in WordPress post types. Perfect for testing themes and plugins with realistic data without manually creating content. Built with PHP for seamless WordPress integration.
 
