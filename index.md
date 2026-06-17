@@ -32,6 +32,13 @@ Link a WooCommerce product to a 20i package type from the product edit screen. W
 **Version**: 2.9.0  
 **GitHub**: [piptheexplorer/solid-host-plug](https://github.com/piptheexplorer/solid-host-plug)
 
+### Eventbrite Plugin
+A WordPress plugin for displaying Eventbrite events using the Eventbrite API. Easily embed lists of upcoming events or single event widgets in your site.
+
+**Technologies**: PHP, WordPress, Eventbrite API  
+**Status**: Active  
+**GitHub**: [piptheexplorer/rabbit-eventbrite-events](https://github.com/piptheexplorer/rabbit-eventbrite-events/)
+
 ## Experience
 
 - **Developer** - Currently building WordPress tools and exploring new technologies
