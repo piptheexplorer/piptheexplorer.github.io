@@ -19,7 +19,8 @@ I'm a developer passionate about exploring new technologies, building cool proje
 A WordPress plugin that creates dummy content in WordPress post types. Perfect for testing themes and plugins with realistic data without manually creating content. Built with PHP for seamless WordPress integration.
 
 **Technologies**: PHP, WordPress  
-**Status**: Active
+**Status**: Active  
+**GitHub**: [piptheexplorer/wp-test-content-generator](https://github.com/piptheexplorer/wp-test-content-generator)
 
 ### Project 2: Your Next Project
 *Description of another project you've worked on. What problem did it solve? What did you learn?*
