@@ -15,7 +15,7 @@ I'm a developer passionate about exploring new technologies, building cool proje
 
 ## Projects
 
-[Link to another page](./another-page.html).
+[Projects](./another-page.html).
 
 ### WP Test Content Generator
 A WordPress plugin that creates dummy content in WordPress post types. Perfect for testing themes and plugins with realistic data without manually creating content. Built with PHP for seamless WordPress integration.
@@ -49,7 +49,7 @@ A WordPress plugin for displaying Eventbrite events using the Eventbrite API. Ea
 ## Get In Touch
 
 - **GitHub**: [github.com/piptheexplorer](https://github.com/piptheexplorer)
-- **Email**: your-email@example.com
+- **Email**: zapstartdigital@gmail.com
 - **LinkedIn**: your-profile-link
 
 ---
