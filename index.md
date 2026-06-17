@@ -22,8 +22,14 @@ A WordPress plugin that creates dummy content in WordPress post types. Perfect f
 **Status**: Active  
 **GitHub**: [piptheexplorer/wp-test-content-generator](https://github.com/piptheexplorer/wp-test-content-generator)
 
-### Project 2: Your Next Project
-*Description of another project you've worked on. What problem did it solve? What did you learn?*
+### Soild Host Plug
+A hosting plugin for WordPress that integrates with 20i Hosting. Version 2.9.0 adds WooCommerce product-to-20i package provisioning.
+
+Link a WooCommerce product to a 20i package type from the product edit screen. When the product is purchased and paid, the plugin collects website setup details at checkout, creates a Website Request record, provisions the 20i hosting package, queues Blueprint admin bootstrap, and continues the existing welcome email/client dashboard flow.
+
+**Technologies**: PHP, WordPress, WooCommerce, 20i Hosting API  
+**Status**: Active  
+**Version**: 2.9.0
 
 ## Experience
 
